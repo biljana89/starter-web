@@ -1,2 +1,3 @@
 notWantedFile.txt
 *.log
+log/
